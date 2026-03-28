@@ -4,10 +4,6 @@ CMSC-405 Programming Languages — Java
 
 Code examples for the Java module. Clone this repo and open the relevant folder in VS Code.
 
-```bash
-git clone https://github.com/chc-cmsc-405/java-examples.git
-```
-
 ## Examples
 
 | Folder | Topics |
