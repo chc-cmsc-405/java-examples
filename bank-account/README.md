@@ -1,6 +1,6 @@
 # Bank Account Example
 
-CMSC-405 Programming Languages — Java Session 9
+CMSC-405 Programming Languages — Java
 
 A bank account example demonstrating custom exceptions, checked vs unchecked exceptions, static members, and the final keyword.
 
